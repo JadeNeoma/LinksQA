@@ -54,7 +54,7 @@ body{
     color: var(--accentColor);
 }
 
-.bio{
+#bio{
     max-width: 675px;
     width: auto;
     display: block;
