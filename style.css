@@ -1,8 +1,8 @@
 /* Style Settings */
 @import url('https://fonts.googleapis.com/css?family=Nova+Cut');
 :root {
-    --bgColor:#55575b;
-    --accentColor:#e87db2;
+    --bgColor:#55575b; /* grey */
+    --accentColor:#e87db2; /* pink */
     --font: 'Nova Cut', sans-serif;
 }
 
@@ -60,4 +60,6 @@ body{
     display: block;
     margin: 20px auto;
     text-align: center;
+    font-family: var(--font);
+    color: var(--accentColor);
 }
