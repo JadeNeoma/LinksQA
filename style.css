@@ -35,6 +35,11 @@ body{
     display: block;
     margin: 20px auto;
 }
+
+#support{
+    padding: calc(13px + 10px); /* change support me size by adjusting second number in addition */
+}
+
 .link{
     display: block;
     background-color: var(--accentColor);
