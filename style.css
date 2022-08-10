@@ -38,6 +38,7 @@ body{
 
 #support{
     padding: calc(13px + 10px); /* change support me size by adjusting second number in addition */
+    font-weight: bold;
 }
 
 .link{
