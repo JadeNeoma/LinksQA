@@ -29,6 +29,13 @@ body{
     text-decoration: none;
 }
 
+#userPhoto{
+    max-width: 675px;
+    width: auto;
+    display: block;
+    margin: 20px auto;
+}
+
 #links{
     max-width: 675px;
     width: auto;
