@@ -6,9 +6,10 @@
     --font: 'Nova Cut', sans-serif;
 }
 html {
-    background: url('carrd.png');
+    background: url('carrd.png'), #CFA2C7;
     background-repeat: no-repeat;
-    background-size:100% 110%;
+    background-size: 100% 110%;
+    background-position: left;
 }
 
 #container{
@@ -26,6 +27,7 @@ html {
 
     html{
         background-size:none;
+        background-size: cover;
     }
     #container{
     padding:10px;
