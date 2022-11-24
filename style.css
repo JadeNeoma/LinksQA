@@ -5,9 +5,18 @@
     --accentColor:#e87db2; /* pink */
     --font: 'Nova Cut', sans-serif;
 }
+html {
+    background-image: url('carrd.png');
+}
 
 body{
-    background-color: var(--bgColor);
+    /*background-color: var(--bgColor);*/
+    float: left;
+    width: 50%
+}
+
+a {
+    color: white;
 }
 
 #userPhoto{
@@ -76,4 +85,5 @@ body{
     text-align: center;
     font-family: var(--font);
     color: var(--accentColor);
+
 }
