@@ -6,8 +6,9 @@
     --font: 'Nova Cut', sans-serif;
 }
 html {
-    background-image: url('carrd.png');
-    background-size:fit;
+    background: url('carrd.png');
+    background-repeat: no-repeat;
+    background-size:100% 110%;
 }
 
 #container{
