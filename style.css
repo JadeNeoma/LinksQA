@@ -9,21 +9,30 @@ html {
     background-image: url('carrd.png');
 }
 
-.left, .right {
-    float: left;
-    width: 20%; /* The width is 20%, by default */
+#container{
+    padding:10px;
+    text-align:left;
 }
-
-.main {
-float: left;
-width: 60%; /* The width is 60%, by default */
+.content{
+    text-align:justify;
 }
-
-/* Use a media query to add a breakpoint at 800px: */
-@media screen and (max-width: 800px) {
-.left, .main, .right {
-    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+.left_image{
+    float:left;
+    margin:0 20px 10px 0;
+    }
+@media only screen and (max-width:767px){
+    #container{
+padding:10px;
+    text-align:center;
+    margin:0 auto;
 }
+    .left_image{
+    float:none;
+    margin:10px auto;
+    }
+    .content{
+    text-align:justify;
+    }
 }
 
 body{
