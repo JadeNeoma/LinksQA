@@ -7,7 +7,7 @@
 }
 html {
     background-image: url('carrd.png');
-    object-fit: fill;
+    background-size:fit;
 }
 
 #container{
@@ -22,6 +22,10 @@ html {
     margin:0 20px 10px 0;
     }
 @media(max-width:767px){
+
+    html{
+        background-size:none;
+    }
     #container{
     padding:10px;
     text-align:center;
