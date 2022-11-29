@@ -23,7 +23,7 @@ html {
     float:left;
     margin:0 20px 10px 0;
     }
-@media(max-width:767px){
+@media(max-width:1028px){
 
     html{
         background-size:none;
@@ -48,7 +48,7 @@ html {
     }
 }
 
-@media(min-width:767px){
+@media(min-width:1028px){
     body{
         /*background-color: var(--bgColor);*/
         float: left;
