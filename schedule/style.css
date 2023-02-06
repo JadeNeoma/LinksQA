@@ -5,8 +5,12 @@ html {
 }
 
 @media(max-width:1028px){
-    background: url('small.png'), #CFA2C7;
+    html {
+        background: url('small.png'), #CFA2C7;
+    }
 }
 @media(min-width:1028px){
+    html {
     background: url('small.png'), #CFA2C7;
+    }
 }
