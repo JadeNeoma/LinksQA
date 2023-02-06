@@ -1,6 +1,6 @@
 body {
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
 @media(max-width:1028px){
