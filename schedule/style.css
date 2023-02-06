@@ -23,42 +23,6 @@ html {
     float:left;
     margin:0 20px 10px 0;
     }
-@media(max-width:1028px){
-
-    html{
-        background-size:none;
-        background-size: cover;
-        background-position: right;
-    }
-    #container{
-    padding:10px;
-    text-align:center;
-    margin:0 auto;
-}
-    .left_image{
-    float:none;
-    margin:10px auto;
-    }
-    .content{
-    text-align:justify;
-    }
-
-    body{
-        float: center;
-    }
-}
-
-@media(min-width:1028px){
-    body{
-        /*background-color: var(--bgColor);*/
-        float: left;
-        min-width: 30%;
-        
-    }
-}
-a {
-    color: white;
-}
 
 #userPhoto{
     width: 110px;
