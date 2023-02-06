@@ -9,7 +9,7 @@ html {
     background: url('schedule.png'), #CFA2C7;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right;
+    background-position: center;
 }
 
 #container{
@@ -28,7 +28,7 @@ html {
     html{
         background-size:none;
         background-size: cover;
-        background-position: left;
+        background-position: right;
     }
     #container{
     padding:10px;
