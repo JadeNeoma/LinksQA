@@ -5,13 +5,11 @@ body {
 
 @media(max-width:1028px){
     body {
-        background: url('small.png'), #CFA2C7;
-        background-size: 100% ;
+        background: url('small.png'), #CFA2C7, 100%;
     }
 }
 @media(min-width:1028px){
     body {
-        background: url('schedule.png'), #CFA2C7;
-        background-size: 100% ;
+        background: url('schedule.png'), #CFA2C7, 100%;
     }
 }
