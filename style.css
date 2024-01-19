@@ -9,7 +9,7 @@ html {
     background: url('carrd.png'), #CFA2C7;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right;
+    background-position: top left;
 }
 
 #container{
