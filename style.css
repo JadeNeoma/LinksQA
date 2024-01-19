@@ -53,7 +53,8 @@ html {
         /*background-color: var(--bgColor);*/
         float: left;
         min-width: 30%;
-        
+        padding-left: 4%;
+        padding-top: 2%;
     }
 }
 a {
