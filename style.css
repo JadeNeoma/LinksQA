@@ -53,6 +53,7 @@ html {
         /*background-color: var(--bgColor);*/
         float: left;
         min-width: 30%;
+        padding-left: 4%;
     }
 }
 a {
@@ -90,7 +91,6 @@ a {
     width: auto;
     display: block;
     margin: 200px auto;
-    padding-left: 4%;
 }
 
 
