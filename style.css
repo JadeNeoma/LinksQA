@@ -8,7 +8,7 @@
 html {
     background: url('carrd.png'), #222f25;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: top left;
 }
 
